@@ -1,0 +1,43 @@
+body{
+    margin-top: 50px;
+    margin-left: 50px;
+    margin-right: 50px;
+    font-family: "Poppins", sans-serif;
+    background-color: #faf9f6;
+}
+span{
+    color: midnightblue;
+}
+h1{
+    font-size: 5rem;
+}
+.flower{
+    height: 200px;
+    width: 300px;
+   float: left;
+   margin-right: 50px;
+   display: inline;
+}
+.flowery{
+    height: 200px;
+    width: 300px;
+    float: left;
+    margin-right: 50px;
+    display: inline;
+}
+.biggie{
+    display: flex;
+    gap: 150px;
+}
+.beauty{
+    flex: 1;
+    object-fit: cover;
+}
+.beautyful{
+    flex: 1;
+    object-fit: cover;
+}
+footer{
+    text-align: right;
+    color: midnightblue;
+}
